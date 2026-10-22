@@ -1,0 +1,6 @@
+{
+  "name": "NexTripia AI - Group Travel Planning",
+  "description": "Dream individually. Plan collectively. Travel dynamically. Premium AI-powered collaborative group travel planning application.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
